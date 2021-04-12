@@ -1,7 +1,7 @@
 
 
 
-// Students: Abdulaziz Al-Kandari & Ahmad Younis. Collaberated with: Feras El Sabaa & Ali Kasem
+// Students:  Ahmad Younis and Abdulaziz Al-Kandari Collaberated with: Feras El Sabaa & Ali Kasem
 
 package com.example.lab4
 
